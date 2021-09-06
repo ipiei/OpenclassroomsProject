@@ -2,7 +2,10 @@ h1 {
     color: #010035;
     font-size: 38px;
     font-family: "Montserrat ExtraBold", sans-serif;
+    transition: .5s;
 }
 h1:hover {
     color: #b8b8cc;
+    transform: translateY(-5px);
+    cursor: pointer;
 }
