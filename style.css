@@ -3,3 +3,6 @@ h1 {
     font-size: 38px;
     font-family: "Montserrat ExtraBold", sans-serif;
 }
+h1:hover {
+    color: #b8b8cc;
+}
